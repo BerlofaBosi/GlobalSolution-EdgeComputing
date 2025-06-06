@@ -9,7 +9,7 @@ Repositório referente a entrega da Global Solution - Edge Computing.
 
 ## **Link's úteis**
 1. [Link do Wokwi](https://wokwi.com/projects/432888167705070593)
-2. [Link do Vídeo Demonstrativo]()
+2. [Link do Vídeo Demonstrativo](https://www.canva.com/design/DAGpitlOA9U/h1Tms38oJa4lg5fXB3HZiw/watch?utm_content=DAGpitlOA9U&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4db21520fd)
 3. [Acesso ao Código Principal](ProgramaArduino/ProgramaArduino.ino)  
 4. [Acesso ao Código de Testes](ProgramaArduinoTestes/ProgramaArduinoTestes.ino)  
 
